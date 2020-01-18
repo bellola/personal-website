@@ -65,3 +65,5 @@ AOS.init({
 	duration: 1000,
 	once: true
 });
+
+new Date().toLocaleDateString()
